@@ -16,3 +16,7 @@ It's still missing a lot of them.
 ## Cookbook Using this repo
 
 ## More documentation
+
+- [GNU Stow documentation](http://www.gnu.org/software/stow/manual/stow.html) in one page
+- [A quick GNU Stow introduction](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+- [Managing strategies with stow](https://taihen.org/managing-dotfiles-with-gnu-stow/)
