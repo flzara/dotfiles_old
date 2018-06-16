@@ -1,0 +1,12 @@
+# include what you want
+
+export PATH=$PATH:$HOME/bin
+
+# add this to the .bashrc: . $HOME/.bashrc.load
+
+####
+# put any bash customizations in here
+# PS1 as a normal user
+PS1='\[\033[1;32m\][\t|\d]\[\033[1;33m\][\u@\h] \[\033[0;36m\]\w$\[\033[0m\] '
+# PS1 in red
+# PS1='\[\033[1;32m\][\t|\d]\[\033[1;31m\][\u@\h] \[\033[0;36m\]\w\$\[\033[0m\] '

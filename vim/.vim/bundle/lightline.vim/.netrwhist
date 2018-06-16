@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/data/hg/forge-pqc'
+let g:netrw_dirhist_2='/data/hg'
+let g:netrw_dirhist_3='/data'
+let g:netrw_dirhist_4='/data/www'
+let g:netrw_dirhist_5='/data'
+let g:netrw_dirhist_6='/data/hg'
+let g:netrw_dirhist_7='/data/hg/forge-pqc'
+let g:netrw_dirhist_8='/data/hg/forge-pqc/jenkins2'
