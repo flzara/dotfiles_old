@@ -1,5 +1,7 @@
 # My dotfiles
 
+**OLD VERSION. Not to be used. See https://github.com/flzara/dotfiles instead**
+
 This repo helps me track and replicate my current and past configuration files.  It's based on [GNU Stow](http://www.gnu.org/software/stow/) to  manage them  and git to track and update them.
 It's still missing a lot of them.
 
